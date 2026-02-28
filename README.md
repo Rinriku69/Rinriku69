@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirithep</h1>
-<h3 align="center">Driven by curiosity and self-learning</h3>
+<h3 align="center">Built on curiosity and caffeine</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
