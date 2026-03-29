@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirithep</h1>
 <h3 align="center">Built on curiosity and caffeine</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <h4>Frameworks</h4>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
