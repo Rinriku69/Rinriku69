@@ -30,5 +30,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind css" width="40" height="40"/> </a>
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
 </p>
 
