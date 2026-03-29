@@ -7,6 +7,7 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextJs" width="40" height="40"/> </a> 
+  <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="spring icon" width="40" height="40"/> </a> 
   
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
