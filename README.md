@@ -9,7 +9,7 @@
   <a href="https://https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextJs" width="40" height="40"/> </a> 
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="spring icon" width="40" height="40"/> </a> 
   
-  <h4>Programming Languages</h4>
+  <h4>Programming & Markup Languages</h4>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
