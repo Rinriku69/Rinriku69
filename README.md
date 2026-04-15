@@ -2,11 +2,11 @@
 <h3 align="center">Built on curiosity and caffeine</h3>
 
 
-
+<div align="left">
   <h4>Frameworks</h4>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextJs" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="nextJs" width="40" height="40"/> </a> 
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="spring icon" width="40" height="40"/> </a> 
   
   <h4>Programming & Markup Languages</h4>
@@ -31,5 +31,5 @@
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind css" width="40" height="40"/> </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
-
+</div>
 
