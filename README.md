@@ -2,7 +2,7 @@
 <h3 align="center">Built on curiosity and caffeine</h3>
 
 
-<p align="left"> 
+
   <h4>Frameworks</h4>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -31,5 +31,5 @@
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind css" width="40" height="40"/> </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
-</p>
+
 
