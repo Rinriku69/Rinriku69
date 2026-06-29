@@ -29,6 +29,7 @@
     <td><b>Database</b></td>
     <td>
       <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+      <a href="https://https://www.postgresql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/></a>
     </td>
   </tr>
 
